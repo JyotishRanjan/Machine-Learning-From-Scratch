@@ -1,5 +1,5 @@
 
-# Machine Learning Projects
+# Machine Learning Project: Numpy Implementation
 
 This repository contains various machine learning projects implementing different algorithms using only NumPy and Pandas. Below is a brief description of each model and its application.
 
