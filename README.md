@@ -46,8 +46,8 @@ This repository contains various machine learning projects implementing differen
 To get started with these projects, clone this repository and navigate to the project directories. Each project directory contains a detailed description, the dataset used, and the implementation code.
 
 ```sh
-git clone https://github.com/yourusername/machine-learning-projects.git
-cd machine-learning-projects
+git clone https://github.com/JyotishRanjan/Machine-Learning-From-Scratch
+cd Machine-Learning-From-Scratch
 ```
 
 ## Requirements
